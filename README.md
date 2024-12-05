@@ -3,7 +3,11 @@
 To run the calculator app, clone the repo. Below procedure is only for Windows operating system.
 
 ### How to run on Windows:
-If you're on Windows, make sure you have compiler installed. Refer to below link for compiler installation on Windows. Then make a `tasks.json` file with below content, go to `main.cpp` file and click run. Your executable file will be generated. Then you can simply run your app by `./main.exe`.
+If you're on Windows, make sure you have compiler installed. Refer to below link for compiler installation on Windows. 
+
+[https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites](https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites)
+
+Then make a `tasks.json` file with below content, go to `main.cpp` file and click run. Your executable file will be generated. Then you can simply run your app by `./main.exe`.
 ```
 {
     "tasks": [
